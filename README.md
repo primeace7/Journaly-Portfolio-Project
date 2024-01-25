@@ -1,0 +1,1 @@
+Welcome to Journaly, a portfolio project
